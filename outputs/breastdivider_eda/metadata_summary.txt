@@ -1,0 +1,9 @@
+Mapping rows: 17956
+Mapping columns: ['BreastDivider_id', 'id']
+Inferred ID column: BreastDivider_id
+Inferred original ID column: None
+Inferred source column: None
+Inferred modality/phase column: None
+
+Classification rows: 3020
+Classification columns: ['id', 'healthy', 'malignant', 'benign', 'side']
