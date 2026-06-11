@@ -1,10 +1,10 @@
-## **Podsumowanie koncepcji pracowni problemowej**
+## **Pracownia problemowa magisterska**
 
 Temat: **Breast MRI Embedding Models for Virtual Dynamic Contrast-Enhanced Image Synthesis**
 
 Specjalnosc: Sztuczna Inteligencja / Wizja komputerowa
 
-Ten dokument nie jest poczatkiem pracy magisterskiej, tylko krotkim podsumowaniem koncepcji, aktualnego rozpoznania literatury oraz planu pierwszego etapu pracowni problemowej.
+Ten dokument nie jest elementem pracy magisterskiej, tylko nieformalnym krótkim podsumowaniem koncepcji, aktualnego rozpoznania literatury oraz planu pierwszego etapu pracy nad realizacją pracy magisterskiej.
 
 ## **1. Cel pracy**
 
