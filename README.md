@@ -57,11 +57,10 @@ Mozliwe rozszerzenia:
 
 ## **5. Etap 1 pracowni problemowej**
 
-Na potrzeby pierwszego etapu pracowni problemowej planuje przygotowac trzy elementy:
+Na potrzeby pierwszego etapu pracowni problemowej przygowane zostały następujące elementy:
 
 1. **Opracowanie literatury.** Wybrane artykuly zostaly lub zostana przeanalizowane wedlug wspolnego template'u oceny artykulu. Wybralem przede wszystkim publikacje, ktore moim zdaniem najlepiej wspieraja realizacje pracy: kontekst kliniczny DCE-MRI, synteze obrazow kontrastowych, foundation models/embeddingi, dataset BreastDivider oraz metryki oceny.
 2. **Rozpoznanie BreastDivider dataset.** Celem jest sprawdzenie, czy dataset zawiera przypadki przydatne do zadania vDCE, szczegolnie pary pre-contrast i post-contrast, oraz jak mozna wykorzystac maski lewej i prawej piersi.
-3. **Projekt pipeline'u eksperymentalnego.** Wynikiem ma byc plan przygotowania danych 2D slice-level, propozycja baseline'u image-to-image oraz opis pierwszej wersji modelu embeddingowego.
 
 Planowane wyniki Etapu 1:
 
@@ -114,7 +113,6 @@ Do tej pory przygotowano kilka kart oceny artykulow, wybranych jako najbardziej 
 ## **8. Najblizsze kroki**
 
 1. Dopracowanie kart oceny artykulow i wybor 5-6 najwazniejszych publikacji do bezposredniego cytowania w pierwszej czesci pracy.
-2. Pobranie lub rozpoznanie struktury BreastDivider.
+2. Pobranie i rozpoznanie struktury BreastDivider.
 3. Przygotowanie notebooka EDA dla datasetu: formaty plikow, liczba przypadkow, modalnosci, pary pre/post-contrast, maski left/right.
 4. Zaprojektowanie pipeline'u slice-level i podstawowego baseline'u direct image-to-image.
-5. Konsultacja z prowadzacym, czy zaproponowany zakres Etapu 1 jest wystarczajacy i czy akcent powinien byc bardziej na embeddingach, czy na analizie datasetu.
